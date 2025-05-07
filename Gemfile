@@ -41,7 +41,7 @@ gem 'country_select'
 
 group :development, :test do
   gem 'mongoid-rspec'
-  gem "rspec-rails", ">= 2.0.1"
+  gem "rspec-rails", ">= 8.0.0"
   gem "factory_girl_rails", "~> 4.0"
   gem 'faker'
   gem 'capybara'
